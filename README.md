@@ -11,5 +11,3 @@ This program can also decipher any message that has been encrypted via the RSA s
 The Racket file consists of complete documentation.
 
 This self developed program is under the MIT License.
-
-Developed by Abhinav Gupta.
